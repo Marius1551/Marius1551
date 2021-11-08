@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marius1551
 - 👀 I’m interested in ...Software development and graphics design
-- 🌱 I’m currently learning ...Pthon programming
+- 🌱 I’m currently learning ...Python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...081 637 0934, insta-mariusvanzyl2002
 
